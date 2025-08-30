@@ -7,7 +7,7 @@ This repo contains my 3D CAD models designed as part of my coursework and practi
 
 | # | Model | Preview | Description |
 |---|-------|---------|-------------|
-| 1 | 🏛 **Pyramid** | ![Pyramid](media/pyramid.png) | Simple 3D pyramid model to practice sketching, extrude boss, and draft features. |
+| 1 | 🏛 **Pyramid** | ![Pyramid](https://github.com/Chanu23UOM/Projects-Solidworks/blob/media/01%202.png) | Simple 3D pyramid model to practice sketching, extrude boss, and draft features. |
 | 2 | 🔧 **T-Joint** | ![T-Joint](media/tjoint.png) | Classic T-joint model to learn about relations, dimensioning, and extrude cut. |
 | 3 | 📏 **Plate** | ![Plate](media/plate.png) | Basic plate component designed with parametric dimensions and fillets. |
 | 4 | 🎓 **UoM Logo** | ![UoM Logo](media/uom_logo.png) | University of Moratuwa logo created using sketch entities and extrude features. |
